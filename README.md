@@ -1,3 +1,9 @@
+How to get Started!
+To run the app, clone it to your computer and run npm start. 
+https://whatsapp-clone-15e01.web.app/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
